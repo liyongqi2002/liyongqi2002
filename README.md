@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liyongqi2002
 - 👀 I’m interested in Natural Language Processing and Machine Learning.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and exploring **causality for nlp**.
 - 📫 Reach me via liyongqi@whu.edu.cn
 
 <!---
