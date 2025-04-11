@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liyongqi2002
+- 👋 Hi, I’m Yongqi Li.
 - 👀 I’m interested in Natural Language Processing and Machine Learning.
 - 🌱 I’m currently learning and exploring **AI Alignment**.
 - 📫 Reach me via liyongqi@whu.edu.cn
